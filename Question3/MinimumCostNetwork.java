@@ -91,7 +91,7 @@ public class MinimumCostNetwork {
 
         return totalCost;
     }
-
+ 
     public static void main(String[] args) {
         int n = 3;
         int[] modules = {1, 2, 2};
